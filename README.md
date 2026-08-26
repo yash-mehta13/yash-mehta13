@@ -52,17 +52,4 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yash-mehta13&show_icons=true&theme=default&hide_border=true" alt="Yash's GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash-mehta13&layout=compact&hide_border=true" alt="Top languages" height="165"/>
-</p>
-
-<p align="center">
-  <img src="   https://streak-stats.demolab.com?user=yash-mehta13&hide_border=true" alt="GitHub streak" />
-</p>
-
----
-
 <p align="center"><i>⚡ Let's connect and build something awesome — yash.mehtaofficial62@gmail.com</i></p>
