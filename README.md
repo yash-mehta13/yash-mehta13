@@ -14,12 +14,12 @@
 
 ### 🔭 About Me
 
-- 🎓 B.Tech in Electronics & Communication Engineering, VIT Vellore (2023 – Present)
-- 🔌 Firmware & Embedded Systems Intern @ **Maruti Suzuki India Limited** (ATE Division) — May–Jul 2026
-- ⚡ Chairperson, **IEEE Electron Devices Society (EDS)**, VIT — Feb 2026–Present
-- 🛠️ Currently building an ESP32-based **Smart Energy Monitor v2** with MQTT/cloud telemetry
-- 📡 Interests: embedded firmware, RTOS, IoT, PCB design, CAN bus communication
-- 🌱 Currently sharpening: Advanced C++ and Linux internals
+-  B.Tech in Electronics & Communication Engineering, VIT Vellore (2023 – Present)
+-  Firmware & Embedded Systems Intern @ **Maruti Suzuki India Limited** (ATE Division) — May–Jul 2026
+-  Chairperson, **IEEE Electron Devices Society (EDS)**, VIT — Feb 2026–Present
+-  Currently building an ESP32-based **Smart Energy Monitor v2** with MQTT/cloud telemetry
+-  Interests: embedded firmware, RTOS, IoT, PCB design, CAN bus communication
+-  Currently sharpening: Advanced C++ and Linux internals
 
 ---
 
