@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Yash Mehta 👋</h1>
+<h1 align="center">Hi, I'm Yash Mehta</h1>
 <h3 align="center">Embedded Systems & Firmware Engineer | ECE @ VIT Vellore</h3>
 
 <p align="center">
@@ -12,7 +12,7 @@
 
 ---
 
-### 🔭 About Me
+###  About Me
 
 -  B.Tech in Electronics & Communication Engineering, VIT Vellore (2023 – Present)
 -  Firmware & Embedded Systems Intern @ **Maruti Suzuki India Limited** (ATE Division) — May–Jul 2026
@@ -23,7 +23,7 @@
 
 ---
 
-### 🧰 Tech Stack
+###  Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
@@ -41,7 +41,7 @@
 
 ---
 
-### 🚀 Featured Projects
+###  Featured Projects
 
 | Project | Description |
 |---|---|
@@ -52,4 +52,4 @@
 
 ---
 
-<p align="center"><i>⚡ Let's connect and build something awesome — yash.mehtaofficial62@gmail.com</i></p>
+<p align="center"><i>yash.mehtaofficial62@gmail.com</i></p>
