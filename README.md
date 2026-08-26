@@ -2,7 +2,7 @@
 <h3 align="center">Embedded Systems & Firmware Engineer | ECE @ VIT Vellore</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE" target="_blank">
+  <a href="https://www.linkedin.com/in/yash-mehta-07451b262/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:yash.mehtaofficial62@gmail.com">
