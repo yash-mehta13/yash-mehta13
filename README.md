@@ -45,7 +45,7 @@
 
 | Project | Description |
 |---|---|
-| [**ESP32 Smart Energy Monitor**](https://github.com/yash-mehta13/ESP32-Smart-Energy-Monitor) | Real-time energy monitoring using ESP32 + PZEM-004T, FreeRTOS task/queue architecture, now migrating from Blynk to MQTT/HiveMQ cloud telemetry |
+| [**ESP32-Real-Time-Energy-Controller**](https://github.com/yash-mehta13/ESP32-Real-Time-Energy-Controller) | Real-time energy monitoring using ESP32 + PZEM-004T, FreeRTOS task/queue architecture, now migrating from Blynk to MQTT/HiveMQ cloud telemetry |
 | [**Two-Node CAN Bus Communication**](https://github.com/yash-mehta13/Two-Node-CAN-Bus-Communication) | Multi-master CAN 2.0B network built with ESP32, STM32, and SN65HVD230 transceivers |
 | [**Weather API-Based Microcontroller Project**](https://github.com/yash-mehta13/Weather-API-Based-Microcontroller-Project) | Microcontroller project fetching and displaying live weather data via REST API |
 | [**C-Programming**](https://github.com/yash-mehta13/C-Programming) | Daily C practice — one new problem or small project at a time |
